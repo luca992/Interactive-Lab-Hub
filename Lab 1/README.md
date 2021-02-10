@@ -68,6 +68,8 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
+My interactive device is meant to use in a home setting. The device is meant to be used by a single player. The activity is to use a locator light orb to find color coded pieces of a toy. The goal is to use a locator light orb to find all the pieces of a toy to build it.
+
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
