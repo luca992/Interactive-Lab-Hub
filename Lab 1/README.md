@@ -87,8 +87,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
+* When acting out the planned interaction, things seemed to go as planned. I did not run into a scenero that I did not expect.
+
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
+* One idea, I came up with was to add a single button. The button could be to switch through the objects that the orb is capable of locating. 
 
 ## Part C. Prototype the device
 
