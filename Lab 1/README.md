@@ -111,6 +111,8 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 **Show the follow-up work here.**
 
+* ![Part 1 Video](https://drive.google.com/file/d/1VrXMQe31QiGKdBommzu5HGMeC11w1ecy/view?usp=sharing)
+
 ## Part E. Costume the device
 
 Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
